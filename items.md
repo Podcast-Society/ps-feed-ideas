@@ -38,7 +38,7 @@ PSC::Episode Capters:        &lt;psc:chapters version="1.2" xmlns:psc="http://po
                                 &lt;psc:chapter start="00:52:12.290" title="Immanuel Kant: Die Kritik der reinen Vernunft"/>
                              &lt;/psc:chapters>
                              
-PSC::Episode Contributor:    &lt;atom:contributor>
+ATOM::Episode Contributor:   &lt;atom:contributor>
                                 &lt;atom:name>Toby&lt;/atom:name>
                                 &lt;atom:uri>http://einschlafen-podcast.de&lt;/atom:uri>
                              &lt;/atom:contributor>
