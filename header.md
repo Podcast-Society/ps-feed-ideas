@@ -17,7 +17,7 @@ Podcast Subtitle:        &lt;description>Monologe zum Entspannen&lt;/description
 Podcast Buidling Date:   &lt;lastBuildDate>Wed, 09 Aug 2017 19:26:04 +0000&lt;/lastBuildDate>
 
 Podcast Poster:          &lt;image>
-        Image URL:             &lt;url>http://einschlafen-podcast.de/.../einschlafen-podcast_original.png&lt;/url>
+        Image URL:             &lt;url>http://[...]_original.png&lt;/url>
         Title:                 &lt;title>Einschlafen Podcast&lt;/title>
         Link:                  &lt;link>http://einschlafen-podcast.de&lt;/link>
                          &lt;/image>
