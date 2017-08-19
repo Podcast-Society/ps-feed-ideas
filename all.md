@@ -151,7 +151,7 @@ ATOM::Episode Contributor:   &lt;atom:contributor>
                                 &lt;atom:uri>http://einschlafen-podcast.de&lt;/atom:uri>
                              &lt;/atom:contributor>
                              
-End Itmen:             &lt;/item>
+End Item:              &lt;/item>
                   
                   ...
                   ...      
