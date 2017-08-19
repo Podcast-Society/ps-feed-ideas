@@ -1,6 +1,7 @@
 <pre>
 
-XML Item: &lt;item>
+RSS Item:             &lt;item>
+
 
 Episode Name:                &lt;title>EP 399 ~ Mein Weg zum Glauben und Kant&lt;/title>
 
@@ -42,5 +43,6 @@ PSC::Episode Contributor:    &lt;atom:contributor>
                                 &lt;atom:name>Toby&lt;/atom:name>
                                 &lt;atom:uri>http://einschlafen-podcast.de&lt;/atom:uri>
                              &lt;/atom:contributor>
-End Itmen: </item>
+                             
+End Itmen:          &lt;/item>
 </pre>              
