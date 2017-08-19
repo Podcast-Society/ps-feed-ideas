@@ -22,7 +22,7 @@ Podcast Poster:          &lt;image>
         Link:                  &lt;link>http://einschlafen-podcast.de&lt;/link>
                          &lt;/image>
                   
-Podcast Atom Self:      &lt;atom:link 
+Podcast Atom Self:       &lt;atom:link 
                               rel="self" 
                               type="application/rss+xml" 
                               title="Einschlafen Podcast (Einschlafen Podcast (AAC))" 
