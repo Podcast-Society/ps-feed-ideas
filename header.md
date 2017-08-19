@@ -5,7 +5,8 @@ RSS:    &lt;rss version="2.0"
                 xmlns:psc="http://podlove.org/simple-chapters" 
                 xmlns:content="http://purl.org/rss/1.0/modules/content/" 
                 xmlns:fh="http://purl.org/syndication/history/1.0"
-                 xmlns:pscs="http://www.podcast-society.org/pss/PSCS/specification">
+                 xmlns:pscs="http://www.podcast-society.org/pss/PSCS/specification"
+                 xmlns:psml="http://www.podcast-society.org/pss/PSML/specification">
 
 Channel:          &lt;channel>
 
@@ -75,4 +76,41 @@ PS::Color Settings:      &lt;pscs:settings version="1.0">
                             &lt;pscs:light hex="#e66"/>
                             &lt;pscs:dark hex="#a00"/>
                          &lt;/pscs:settings>
+
+
+
+PS::Media License:      &lt;psml:license version="1.0">
+                            &lt;psml:sound title="Soundflore Intro"
+                                      mode="intro"                                //intro
+                                      genre="08"                                  //ID3v1 Genre (optional)
+                                      producer="Michael McCouman Jr."             //producer
+                                      producerUrl="http://website-download.tld"   //website
+                                      license="cc0"                               //sound license
+                                      licenseUrl="https://creativecommons.org/licenses/by/3.0/de/" //sound license url
+                                      />
+                             &lt;psml:sound title="Soundflore Ending"
+                                       mode="ontro"                                //outro
+                                       genre="10"                                  //ID3v1 Genre (optional)
+                                       producer="Michael McCouman Jr."             //producer
+                                       prodUrl="http://website-download.tld"       //website url
+                                       license="cc0"                               //sound license
+                                       licenseUrl="https://creativecommons.org/licenses/by/3.0/de/" //sound license url
+                                       />
+                             &lt;psml:image title="Spirit Bicture"
+                                       mode="banner"                               //banner
+                                       type="image/jpg"                            //mime-type
+                                       creator="Michael McCouman Jr."              //creator
+                                       creatorUrl="http://website-download.tld"    //website url
+                                       license="Copyright by Democast"             //image license
+                                       licenseUrl="http://democast.tld"            //license url
+                                        />
+                             &lt;psml:image title="Episode 001"
+                                       mode="poster"                               //poster
+                                       type="image/png"                            //mime-type
+                                       creator="Michael McCouman Jr."              //producer, creator ...
+                                       creatorUrl="http://website-download.tld"    //website url
+                                       license="Copyright by Democast - 001"       //image license
+                                       licenseUrl="http://democast.tld/001/"       //license url
+                                        />
+                        &lt;/psml:license>
 </pre>
