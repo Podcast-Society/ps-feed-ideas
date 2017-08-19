@@ -44,7 +44,6 @@ Podcast Atom First:      &lt;atom:link
                                rel="first" 
                                href="http://einschlafen-podcast.de/feed/aac/"/>
 
-
 Podcast Language:        &lt;language>de-DE</language>
 
 Podcast Generator:       &lt;generator>Podlove Podcast Publisher v2.6.2</generator>
