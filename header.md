@@ -50,7 +50,7 @@ Podcast Generator:       &lt;generator>Podlove Podcast Publisher v2.6.2&lt;/gene
 
 iT::Author:              &lt;itunes:author>Toby Baier&lt;/itunes:author>
 
-iT::Summary:             &lt;itunes:summary>Ich erzähle Euch w.... ....önnt.&lt;/itunes:summary>
+iT::Summary:             &lt;itunes:summary>Ich erzähle Euch w[...]önnt.&lt;/itunes:summary>
 
 iT::Category:            &lt;itunes:category text="Health"/>
                          &lt;itunes:category text="Arts">
@@ -61,7 +61,7 @@ iT::Owner:               &lt;itunes:owner>
                             &lt;itunes:email>toby@isolation.de&lt;/itunes:email>
                          &lt;/itunes:owner>
              
-iT::Image:               &lt;itunes:image href="http://einschlafen-....einschlafen-podcast_original.png"/>
+iT::Image:               &lt;itunes:image href="http://[...]_original.png"/>
 
 iT::Subtitle:            &lt;itunes:subtitle>Monologe zum Entspannen&lt;/itunes:subtitle>
 
