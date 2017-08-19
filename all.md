@@ -77,7 +77,7 @@ PS::Color Settings:      &lt;pscs:settings version="1.0">
                             &lt;pscs:dark hex="#a00"/>
                          &lt;/pscs:settings>
 
-PS::Media License:      &lt;psml:license version="1.0">
+PS::Media License:       &lt;psml:license version="1.0">
                             &lt;psml:sound title="Soundflore Intro"
                                      mode="intro"                               
                                      genre="08"                                 
@@ -108,7 +108,7 @@ PS::Media License:      &lt;psml:license version="1.0">
                                       licenseUrl="http://democast.tld/001/"/>
                         &lt;/psml:license>
                         
- RSS Item:             &lt;item>
+ RSS Item:              &lt;item>
 
 Episode Name:                &lt;title>EP 399 ~ Mein Weg zum Glauben und Kant&lt;/title>
 
@@ -151,7 +151,7 @@ ATOM::Episode Contributor:   &lt;atom:contributor>
                                 &lt;atom:uri>http://einschlafen-podcast.de&lt;/atom:uri>
                              &lt;/atom:contributor>
                              
-End Itmen:            &lt;/item>
+End Itmen:             &lt;/item>
                   
                   ...
                   ...      
