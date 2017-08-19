@@ -108,7 +108,7 @@ PS::Media License:       &lt;psml:license version="1.0">
                                       licenseUrl="http://democast.tld/001/"/>
                         &lt;/psml:license>
                         
- RSS Item:              &lt;item>
+RSS Item:               &lt;item>
 
 Episode Name:                &lt;title>EP 399 ~ Mein Weg zum Glauben und Kant&lt;/title>
 
