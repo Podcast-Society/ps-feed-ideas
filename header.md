@@ -1,5 +1,10 @@
 <pre>
-RSS: &lt;rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:fh="http://purl.org/syndication/history/1.0">
+RSS:    &lt;rss version="2.0" 
+                xmlns:atom="http://www.w3.org/2005/Atom" 
+                xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"                         
+                xmlns:psc="http://podlove.org/simple-chapters" 
+                xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+                xmlns:fh="http://purl.org/syndication/history/1.0">
 
 Channel:          &lt;channel>
 Podcast Title:           &lt;title>Einschlafen Podcast</title>
