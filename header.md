@@ -1,3 +1,4 @@
+<pre>
 RSS: <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:fh="http://purl.org/syndication/history/1.0">
 
 Channel:          <channel>
@@ -53,3 +54,4 @@ iT::Image:               <itunes:image href="http://einschlafen-....einschlafen-
 iT::Subtitle:            <itunes:subtitle>Monologe zum Entspannen</itunes:subtitle>
 iT::Block:               <itunes:block>no</itunes:block>
 iT::Explicit:            <itunes:explicit>no</itunes:explicit>
+</pre>
