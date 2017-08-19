@@ -7,10 +7,15 @@ RSS:    &lt;rss version="2.0"
                 xmlns:fh="http://purl.org/syndication/history/1.0">
 
 Channel:          &lt;channel>
+
 Podcast Title:           &lt;title>Einschlafen Podcast</title>
+
 Podcast Website:         &lt;link>http://einschlafen-podcast.de</link>
+
 Podcast Subtitle:        &lt;description>Monologe zum Entspannen</description>
+
 Podcast Buidling Date:   &lt;lastBuildDate>Wed, 09 Aug 2017 19:26:04 +0000</lastBuildDate>
+
 Podcast Poster:          &lt;image>
         Image URL:             &lt;url>http://einschlafen-podcast.de/.../einschlafen-podcast_original.png</url>
         Title:                 &lt;title>Einschlafen Podcast</title>
@@ -41,9 +46,11 @@ Podcast Atom First:      &lt;atom:link
 
 
 Podcast Language:        &lt;language>de-DE</language>
+
 Podcast Generator:       &lt;generator>Podlove Podcast Publisher v2.6.2</generator>
 
 iT::Author:              &lt;itunes:author>Toby Baier</itunes:author>
+
 iT::Summary:             &lt;itunes:summary>Ich erzähle Euch w.... ....önnt.</itunes:summary>
 
 iT::Category:            &lt;itunes:category text="Health"/>
@@ -56,7 +63,10 @@ iT::Owner:               &lt;itunes:owner>
                          &lt;/itunes:owner>
              
 iT::Image:               &lt;itunes:image href="http://einschlafen-....einschlafen-podcast_original.png"/>
+
 iT::Subtitle:            &lt;itunes:subtitle>Monologe zum Entspannen</itunes:subtitle>
+
 iT::Block:               &lt;itunes:block>no</itunes:block>
+
 iT::Explicit:            &lt;itunes:explicit>no</itunes:explicit>
 </pre>
