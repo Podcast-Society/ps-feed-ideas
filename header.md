@@ -4,7 +4,8 @@ RSS:    &lt;rss version="2.0"
                 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"                         
                 xmlns:psc="http://podlove.org/simple-chapters" 
                 xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-                xmlns:fh="http://purl.org/syndication/history/1.0">
+                xmlns:fh="http://purl.org/syndication/history/1.0"
+                 xmlns:pscs="http://www.podcast-society.org/pss/PSCS/specification">
 
 Channel:          &lt;channel>
 
@@ -68,4 +69,10 @@ iT::Subtitle:            &lt;itunes:subtitle>Monologe zum Entspannen&lt;/itunes:
 iT::Block:               &lt;itunes:block>no&lt;/itunes:block>
 
 iT::Explicit:            &lt;itunes:explicit>no&lt;/itunes:explicit>
+
+PS::Color Settings:      &lt;pscs:settings version="1.0">
+                            &lt;pscs:color hex="#f00"/>
+                            &lt;pscs:light hex="#e66"/>
+                            &lt;pscs:dark hex="#a00"/>
+                         &lt;/pscs:settings>
 </pre>
