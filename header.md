@@ -77,40 +77,34 @@ PS::Color Settings:      &lt;pscs:settings version="1.0">
                             &lt;pscs:dark hex="#a00"/>
                          &lt;/pscs:settings>
 
-
-
 PS::Media License:      &lt;psml:license version="1.0">
                             &lt;psml:sound title="Soundflore Intro"
-                                      mode="intro"                                //intro
-                                      genre="08"                                  //ID3v1 Genre (optional)
-                                      producer="Michael McCouman Jr."             //producer
-                                      producerUrl="http://website-download.tld"   //website
-                                      license="cc0"                               //sound license
-                                      licenseUrl="https://creativecommons.org/licenses/by/3.0/de/" //sound license url
-                                      />
+                                     mode="intro"                               
+                                     genre="08"                                 
+                                     producer="Michael McCouman Jr."             
+                                     producerUrl="http://website-download.tld"   
+                                     license="cc0"                               
+                                     licenseUrl="https://creativecommons.org/licenses/by/3.0/de/"/>
                              &lt;psml:sound title="Soundflore Ending"
-                                       mode="ontro"                                //outro
-                                       genre="10"                                  //ID3v1 Genre (optional)
-                                       producer="Michael McCouman Jr."             //producer
-                                       prodUrl="http://website-download.tld"       //website url
-                                       license="cc0"                               //sound license
-                                       licenseUrl="https://creativecommons.org/licenses/by/3.0/de/" //sound license url
-                                       />
+                                      mode="ontro"                              
+                                      genre="10"                                 
+                                      producer="Michael McCouman Jr."            
+                                      prodUrl="http://website-download.tld"       
+                                      license="cc0"                              
+                                      licenseUrl="https://creativecommons.org/licenses/by/3.0/de/"/>
                              &lt;psml:image title="Spirit Bicture"
-                                       mode="banner"                               //banner
-                                       type="image/jpg"                            //mime-type
-                                       creator="Michael McCouman Jr."              //creator
-                                       creatorUrl="http://website-download.tld"    //website url
-                                       license="Copyright by Democast"             //image license
-                                       licenseUrl="http://democast.tld"            //license url
-                                        />
+                                      mode="banner"                            
+                                      type="image/jpg"                          
+                                      creator="Michael McCouman Jr."             
+                                      creatorUrl="http://website-download.tld"   
+                                      license="Copyright by Democast"            
+                                      licenseUrl="http://democast.tld"/>
                              &lt;psml:image title="Episode 001"
-                                       mode="poster"                               //poster
-                                       type="image/png"                            //mime-type
-                                       creator="Michael McCouman Jr."              //producer, creator ...
-                                       creatorUrl="http://website-download.tld"    //website url
-                                       license="Copyright by Democast - 001"       //image license
-                                       licenseUrl="http://democast.tld/001/"       //license url
-                                        />
+                                      mode="poster"                           
+                                      type="image/png"                           
+                                      creator="Michael McCouman Jr."             
+                                      creatorUrl="http://website-download.tld"   
+                                      license="Copyright by Democast - 001"      
+                                      licenseUrl="http://democast.tld/001/"/>
                         &lt;/psml:license>
 </pre>
