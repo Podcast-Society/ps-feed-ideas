@@ -2,7 +2,6 @@
 
 RSS Item:             &lt;item>
 
-
 Episode Name:                &lt;title>EP 399 ~ Mein Weg zum Glauben und Kant&lt;/title>
 
 Episode Slug:                &lt;link>http://[...]ep-399-mein-weg-zum-glauben-und-kant/&lt;/link>
@@ -44,5 +43,5 @@ PSC::Episode Contributor:    &lt;atom:contributor>
                                 &lt;atom:uri>http://einschlafen-podcast.de&lt;/atom:uri>
                              &lt;/atom:contributor>
                              
-End Itmen:          &lt;/item>
+End Itmen:            &lt;/item>
 </pre>              
